@@ -80,11 +80,12 @@ To learn more about React Native, take a look at the following resources:
 
 
 # Authentication
-  Staff:
-      username: staff
-      password: password
-  Manager:
-      username: manager
-      password: password  
+
+### Staff
+- username: staff
+- password: password
+###  Manager
+- username: manager
+- password: password  
 
 
